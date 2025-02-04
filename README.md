@@ -6,6 +6,7 @@ I’m CSHeha, a software engineering undergraduate and a passionate full-stack d
 
 Here, you’ll discover the results of my curiosity, dedication, and drive to create impactful solutions.
 
+
 💻 My areas of interest:
 
 🌐 Full-Stack Web Development
@@ -16,12 +17,11 @@ Thank you for visiting—let’s collaborate and build the future together! 😊
 
 
 
-
-Connect with Me!
+🌏 Connect with Me!
 I’m always eager to explore new opportunities, exchange ideas, and work on impactful projects. Let’s connect and make something amazing together!
 
 🔗 LinkedIn - www.linkedin.com/in/c-shehani
-🔗 GitHub - 
+🔗 GitHub - https://github.com/csheha
 
 Thanks for stopping by—let’s keep building and innovating! 🚀✨
 
