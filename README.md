@@ -1,4 +1,4 @@
-# CShehani
+# Chanudi Shehani
 # Hi there, I’m Shehani! 👋
 🌱 Welcome to my GitHub profile!
 
