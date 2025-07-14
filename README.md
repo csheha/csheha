@@ -40,4 +40,6 @@ ________________________________________________________________________________
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csheha&show_icons=true&locale=en&layout=compact&hide=python" alt="csheha" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csheha&show_icons=true&locale=en" alt="csheha" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csheha&" alt="csheha" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=csheha" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=csheha)](https://git.io/streak-stats)
